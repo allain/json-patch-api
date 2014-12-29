@@ -47,3 +47,5 @@ POST /api/NAME/patches
 With a JSON-Patch payload will apply the patch to the current endpoint's state and broadcast it to all listening clients.
 
 ## Clients
+
+See http://www.github.com/allain/json-patch-api-client)
