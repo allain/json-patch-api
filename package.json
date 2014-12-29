@@ -1,6 +1,6 @@
 {
   "name": "json-patch-api",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Provides an express middleware for a JSON store that supports real-time client updates using JSON-patch and mongojs as a backend for persistence.",
   "main": "index.js",
   "scripts": {
