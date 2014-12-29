@@ -48,4 +48,4 @@ With a JSON-Patch payload will apply the patch to the current endpoint's state a
 
 ## Clients
 
-See http://www.github.com/allain/json-patch-api-client)
+See http://www.github.com/allain/json-patch-api-client
